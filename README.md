@@ -3,6 +3,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Built with
+* React 18.2
+
 ## Available Scripts
 
 In the project directory, you can run:
